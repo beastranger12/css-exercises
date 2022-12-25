@@ -1,0 +1,19 @@
+.common-class {
+background-color: rgb(255, 167, 167);
+font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#first-id {
+    color :blue;
+    font-size: 36px;
+}
+
+#second-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.common-class.odd-class  {
+    font-size: 24px;
+}
